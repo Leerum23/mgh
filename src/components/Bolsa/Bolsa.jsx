@@ -1,5 +1,5 @@
 import "./Bolsa.css"
-import lucid from "../../assets/lucid.png"
+
 import { Fade, Zoom } from "react-awesome-reveal"
 import { useTranslation } from "react-i18next";
 import image from "../../assets/maletin.png";
