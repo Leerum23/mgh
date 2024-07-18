@@ -1,0 +1,103 @@
+{
+    
+    "Apertura" : {
+        "top":"Education + Content",
+        "title": "MASTER IN",
+        "title2": "VIDEO EDITION",
+        "intro":"This is a 100% validated methodology. Become a professional editor, charging excessively high offers.",
+        "button":"Yeah! I want this for only $147"},
+
+
+    "gift" : {
+        "title" : "Get today as a gift",
+        "p": "Dentro de",
+        "span":"Media Growth Hub",
+        "p2":"+ 200 PRESETS",
+        "p3":"+1200 EDITING RESOURCES",
+        "p4":"+5 HOURS OF CLASSES TO GET CLIENTS",
+        "p5":"+10 DOCUMENTS ABOUT HIGH TICKET OFFERS"
+        
+    },
+
+    
+
+    "prog" : {
+        "title": "What does the program include?",
+        "subtitle":"Practical knowledge to stand out.",
+        "card_module1":"Module 1",
+        "card_title1":"Editing Basics in Adobe Premiere",
+        "card_text1":"Learn the basics to enhance your content on networks, from text effects to transitions and camera timings.",
+        "card_module2":"Module 2",
+        "card_title2":"Advanced editing techniques in Adobe Premiere",
+        "card_text2":"Begin to deploy your tools also in sound to generate harmonious audiovisual pieces.",
+        "card_module3":"Module 3",
+        "card_title3":"Advanced video editing in Adobe Premiere",
+        "card_text3":"Explore and acquire more tools taking into account lighting and color.",
+        "card_module4":"Module 4",
+        "card_title4":"Advanced video editing in Adobe Premiere",
+        "card_text4":"Develop all your tools in your own project that helps you increase your income.",
+        "card_module5":"Module 5",
+        "card_title5":"Editing Basics in After Effects (Professional)",
+        "card_text5":"Acquire knowledge of advertising production of the same type as big brands.",
+        "card_module6":"Module 6",
+        "card_title6":"3D modeling in Blender",
+        "card_text6":"Enter the world of 3D editing with exclusive material.",
+        "card_module7":"Module 7",
+        "card_title7":"AI, prompts and viral scripts",
+        "card_text7":"Increase your performance and ability to create viral content."
+    },
+
+    "bolsa": {
+        "title":"Join our exclusive community of editors ",
+        "title2":"with a job board",
+        "text":"Expand your job opportunities.",
+        "text2":"Learn more here"
+    },
+
+
+    "brief":{
+        "top":"In summary",
+        "title1":"MASTER IN",
+        "title2":"EDICIÓN DE VIDEOS",
+        "bajada":"What will you get?",
+        "item1":"Complete Study Plan + Gift Content",
+        "item2":"Professional portfolio",
+        "item3":"Sales practices",
+        "item4":"Services paid in dollars",
+        "item5":"Access to our community of editors",
+        "precio":"price per module $142 USD",
+        "precio2":"Total price $1000 USD"
+    },
+
+    "about": {
+        "title":"Únete a nuestra comunidad exclusiva de editores ",
+        "subtitle":"con bolsa de trabajo",
+        "text1":"Expande tus oportunidades laborales. ",
+        "text2":"Conoce más aquí",
+        "text3":"Conoce más aquí"
+    },
+
+    "FAQ": {
+        "faq-title":"Frequent questions",
+        "faq1":"Where can I ask you questions?",
+        "ans1":"You can contact us through our networks or by sending an email to ventas@mediagrowthhub.com",
+        "faq2":"If I'm at zero, will it help me?",
+        "ans2":"Our program is designed so that anyone can grow and increase their income over a thousand dollars.",
+        "faq3":"Does it work if I have social networks with little presence?",
+        "ans3":"We enhance your ability to grow on social networks and generate viral content, for yourself or third parties.",
+        "faq4":"Are spaces limited?",
+        "ans4":"The course experience is personalized. We want to give tools to committed people."
+    },
+
+
+
+    "footer" : {
+        "dev": "Developed por",
+        "copy": "All rights reserved by Media Growth Hub." 
+    },
+
+   
+    "views1": "1.2M de vistas",
+    "views2": "131K de vistas",
+    "views3": "340K de vistas"
+}

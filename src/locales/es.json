@@ -1,0 +1,100 @@
+{
+    
+    "Apertura" : {
+        "top":"Educación + Contenidos",
+        "title": "MASTER EN",
+        "title2": "EDICIÓN DE VIDEO",
+        "intro":"Esta es una métodología 100% validada. Conviertete en editor profesional, cobrando ofertas excesivamente altas.",
+        "button":"¡Sí! Quiero todo a solo $197"},
+
+
+    "gift" : {
+        "title" : "Obten hoy de regalo",
+        "p": "Dentro de",
+        "span":"Media Growth Hub",
+        "p2":"+ 200 PRESETS",
+        "p3":"+1200 RECURSOS DE EDICIÓN",
+        "p4":"+5 HORAS DE CLASES PARA CONSEGUIR CLIENTES",
+        "p5":"+10 DOCUMENTOS SOBRE OFERTAS HIGH TICKET"
+        
+    },
+
+    "prog" : {
+        "title": "¿Qué incluye el programa?",
+        "subtitle":"Conocimientos prácticos para destacar.",
+        "card_module1":"Módulo 1",
+        "card_title1":"Fundamentos de Edición en Adobe Premiere",
+        "card_text1":"Aprende lo básico para potenciar tus contenidos en redes, desde efectos de textos hasta transiciones y tiempos de cámara.",
+        "card_module2":"Módulo 2",
+        "card_title2":"Técnicas avanzadas de edición en Adobe Premiere",
+        "card_text2":"Comienza a desplegar tus herramientas también en el sónido para generar piezas audiovisuales armónicas.",
+        "card_module3":"Módulo 3",
+        "card_title3":"Edición de video avanzada en Adobe Premiere",
+        "card_text3":"Explora y adquiere mayores herramientas teniendo en cuenta la iluminación y el color.",
+        "card_module4":"Módulo 4",
+        "card_title4":"Edición de video avanzada en Adobe Premiere",
+        "card_text4":"Desarrolla todas tus herramientas en un proyecto propio que te ayude a incrementar tus ingresos.",
+        "card_module5":"Módulo 5",
+        "card_title5":"Fundamentos de edición en After Effects (profesional)",
+        "card_text5":"Adquiere conocimientos de producción publicitaria del mismo tipo de las grandes marcas.",
+        "card_module6":"Módulo 6",
+        "card_title6":"Modelado 3D en Blender",
+        "card_text6":"Ingresa en el mundo de la edición 3D con material exclusivo.",
+        "card_module7":"Módulo 7",
+        "card_title7":"IA, prompts y guiones virales",
+        "card_text7":"Aumenta tu rendimiento y la capacidad de crear contenido viralizable."
+    },
+
+    "bolsa": {
+        "title":"Únete a nuestra comunidad exclusiva de editores ",
+        "title2":"con bolsa de trabajo",
+        "text":"Expande tus oportunidades laborales. ",
+        "text2":"Conoce más aquí"
+    },
+
+    "brief":{
+        "top":"En resumen",
+        "title1":"MASTER EN",
+        "title2":"EDICIÓN DE VIDEOS",
+        "bajada":"¿Qué obtendrás?",
+        "item1":"Plan de estudios completo + Contenido de regalo",
+        "item2":"Portfolio profesional",
+        "item3":"Prácticas de venta",
+        "item4":"Funciones remuneradas en dolares",
+        "item5":"Acceso a nuestra comunidad de editores",
+        "precio":"Precio por módulo $142 USD",
+        "precio2":"Precio total $1000 USD"
+    },
+
+    "about": {
+        "title":"Otra vida es posible...",
+        "subtitle":"Puedes comenzar hoy a trabajar remoto",
+        "text1":"Este curso no solo te proporcionará elementos técnicos, sino herramientas aplicables a cualquier emprendimiento. Aprenderás a desarrollar relatos audiovisuales, a incrementar tus contactos y ofrecer tus servicios con efectividad.",
+        "text2":"Tendrás acceso a una fórmula ganadora. ",
+        "text3":"Hemos ayudado a cientos de profesionales de disintos sectores, ganando en dolares y fijando nuestros propios tiempos."
+    },
+
+    "FAQ": {
+        "faq-title":"Preguntas Frecuentes",
+        "faq1":"¿Por dónde puedo hacerles consultas?",
+        "ans1":"Puedes contactarnos por nuestras redes o mandando un mail a ventas@mediagrowthhub.com",
+        "faq2":"¿Si estoy en cero me va a servir?",
+        "ans2":"Nuestro programa esta pensado para que cualquier persona pueda crecer y aumentar sus ingresos por encima de los mil dolares.",
+        "faq3":"¿Funciona si tengo redes sociales con poca presencia?",
+        "ans3":"Potenciamos tu capacidad de crecer en redes sociales y generar contenido viralizable, para ti o terceros.",
+        "faq4":"¿Los cupos son limitados?",
+        "ans4":"La experiencia del curso es customizada. Queremos darle herramientas a personas comprometidas."
+    },
+
+
+
+    "footer" : {
+        "dev": "Desarrollado por",
+        "copy": "Todos los derechos reservados por Media Growth Hub." 
+    },
+
+   
+    "views1": "1.2M de vistas",
+    "views2": "131K de vistas",
+    "views3": "340K de vistas"
+}
