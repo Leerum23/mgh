@@ -19,7 +19,7 @@ overflow: hidden;
         height: 100%;
         /* background: url("../../assets/lineas_rosas.png") no-repeat center center;  */
         background: url("../../assets/fondovioleta-mgh2.png") no-repeat center center; 
-        background-size: contain;
+        background-size:cover;
         opacity: 0.5; /* Ajusta la opacidad para que el texto sea visible */
         z-index: 1;
 }
