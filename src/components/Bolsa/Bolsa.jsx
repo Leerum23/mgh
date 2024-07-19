@@ -25,7 +25,7 @@ function Bolsa() {
                       <h2 className="bolsa_titlee"><span className="bolsa_title_2">{t("bolsa.title2")}</span></h2>
                       <p className="bolsa_subtitle">{t("bolsa.text")}</p>
                         <br></br>
-                        <p className="bolsa_text2"><a href="https://www.instagram.com/direct/t/17842253745049814" >{t("bolsa.text2")}</a></p>
+                        <p className="bolsa_text2"><a href="https://wa.me/message/QNF2FJ34NE5DG1" >{t("bolsa.text2")}</a></p>
                       
                       
                               <div className="program_image_container">

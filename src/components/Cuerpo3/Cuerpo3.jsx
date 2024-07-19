@@ -45,7 +45,7 @@ function Cuerpo3() {
 
                 <button className='aper_btn'>
                     
-                        <a target='_blank' rel='noreferrer' href="https://calendly.com/mediagrowthhub/30min">{t("Apertura.button")}</a>
+                        <a target='_blank' rel='noreferrer' href="https://wa.me/message/QNF2FJ34NE5DG1">{t("Apertura.button")}</a>
                     
                 </button>
 
