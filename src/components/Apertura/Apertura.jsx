@@ -8,7 +8,7 @@ import Navbar from "../Navbar/Navbar";
 import Cuerpo1 from '../Cuerpo1/Cuerpo1';
 
 
-   const URL1="https://www.youtube.com/embed/76SLztbvask?si=cTebLCeX9CodY383"
+   const URL1="https://www.youtube.com/embed/aOyNoGprZTg?si=cTebLCeX9CodY383"
 
    
 
