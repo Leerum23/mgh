@@ -19,23 +19,24 @@ function Bolsa() {
 
         <div className="bolsa_background-image"></div>
 
-        <div className="bolsa_content">
+        <div className="bolsa_content1">
                           
                       <h2 className="bolsa_title"><span className="bolsa_title_1">{t("bolsa.title")}</span></h2>
                       <h2 className="bolsa_titlee"><span className="bolsa_title_2">{t("bolsa.title2")}</span></h2>
                       <p className="bolsa_subtitle">{t("bolsa.text")}</p>
                         <br></br>
                         <p className="bolsa_text2"><a href="https://www.instagram.com/fraancastro_/" >{t("bolsa.text2")}</a></p>
+                </div>
                       
-                      
-                              <div className="program_image_container">
-                                  <img src={image} alt="image" className="bolsa_image"/>
-                              </div>
+                  <div className="bolsa_content2">
+                  <div className="program_image_container">
+                    <img src={image} alt="image" className="bolsa_image"/>
+                  </div>
+                  </div>
                               
                             
                             
               
-                </div>
     </div>
        
     </>
