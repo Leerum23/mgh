@@ -113,7 +113,7 @@ button:hover, a:hover {
     /* background: linear-gradient(90deg, #FF002A 0.3%, #9600FF 100%); */
     background: yellow;
     width: 45%;
-    height: 3rem;
+    height: 4rem;
     margin: 5rem auto;
 
     @media only screen and (max-width: 768px) {
@@ -129,7 +129,12 @@ button:hover, a:hover {
     color: linear-gradient(90deg, #FF002A 0.1%, #9600FF 100%);
     /* color:black; */
     font-weight: 700;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+
+    @media (max-width: 767px) {
+        font-weight: 700;
+        font-size: 1.4rem;
+    }
 }
 
 iframe {
