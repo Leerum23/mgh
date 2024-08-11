@@ -50,7 +50,7 @@ function Apertura() {
                 </div>
                 <button className='aper_btn'>
                     
-                        <a target='_blank' rel='noreferrer' href="https://wa.me/message/QNF2FJ34NE5DG1">{t("Apertura.button")}</a>
+                        <a target='_blank' rel='noreferrer' href="https://www.instagram.com/fraancastro_/">{t("Apertura.button")}</a>
                     
                 </button>
             </div>
